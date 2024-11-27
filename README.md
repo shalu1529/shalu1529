@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **shalu1529/shalu1529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 -->
+
+
+# Hi, I'm Shalu 👋  
+### Full Stack Developer  
+
+- 🚀 Passionate about building scalable web apps.  
+- 🌱 Currently enhancing my skills in Mern Stack.  
+- 🌟 Featured Projects: Entertainment-App, Netflix Clone, Music Recognition App.  
+
+📫 **How to reach me:** (mailto: shaalu1529@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shalu-b81816212/)
